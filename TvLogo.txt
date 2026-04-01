@@ -38,8 +38,69 @@ https://www.lyngsat.com/logo/tv/aa/ary_news_asia.png
 Zee Tv
 https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png
 
+Geo TV
+https://www.lyngsat.com/logo/tv/gg/geo_tv_uk.png
+
+Supersport Cricket
+https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png
+
+Supersport Action
+https://www.lyngsat.com/logo/tv/ss/supersport-action-za.png
+
+Supersport Grandstand
+https://www.lyngsat.com/logo/tv/ss/supersport-grandstand-za.png
+
+Willow 
+https://www.lyngsat.com/logo/tv/ww/willow-us.png
+
+Willow 2
+https://www.lyngsat.com/logo/tv/ww/willow-2-us.png
+
+Sky Sports Cricket
+https://www.lyngsat.com/logo/tv/ss/sky-sports-cricket-uk.svg
+
+Sky Sports Main Event
+https://www.lyngsat.com/logo/tv/ss/sky-sports-main-event-uk.png
+
+Sky Sports +
+https://www.lyngsat.com/logo/tv/ss/sky-sportsplus-uk.svg
+
 Sky Sports
 https://www.lyngsat.com/logo/tv/ss/sky-sports-mx.png
+
+Sky Sports ( Blue Logo)
+https://www.lyngsat.com/logo/tv/ss/sky-sports-kr.png
+
+Sky Sports ( Red Logo)
+https://www.lyngsat.com/logo/tv/ss/sky-sports-mx.png
+
+Sky Sports Mix
+https://www.lyngsat.com/logo/tv/ss/sky-sport-mix-de.png
+
+Sky Mix ( Blue Logo )
+https://www.lyngsat.com/logo/tv/ss/sky-mix-uk-uk.svg
+
+Sky Sports Select
+https://www.lyngsat.com/logo/tv/ss/sky-sport-select-nz.png
+
+Sky Sports 1 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-1-nz.png
+Sky Sports 2 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-2-nz.png
+Sky Sports 3 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-3-nz.png
+Sky Sports 4 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-4-nz.png
+Sky Sports 5 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-5-nz.png
+Sky Sports 6 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-6-nz.png
+Sky Sports 7 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-7-nz.png
+Sky Sports 8 (New Zeeland) Not Working
+https://www.lyngsat.com/logo/tv/ss/sky-sport-8-nz.png
+Sky Sports 9 (New Zeeland)
+https://www.lyngsat.com/logo/tv/ss/sky-sport-9-nz.png
 
 Star Plus
 https://www.lyngsat.com/logo/tv/ss/star-plus-in.png
