@@ -23,6 +23,12 @@ https://www.lyngsat.com/logo/tv/pp/ptv-sports-pk.png
 Geo Super
 https://www.lyngsat.com/logo/tv/gg/geo_super.png
 
+Ten Sports
+https://www.lyngsat.com/logo/tv/tt/ten_sports_in_pakistan.png
+
+Ten Cricket
+https://www.lyngsat.com/logo/tv/tt/ten_cricket_in.png
+
 TEN ( not ten sports)
 https://www.lyngsat.com/logo/tv/tt/ten-us.png
 
@@ -131,6 +137,9 @@ https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png
 
 Sony Ten 5
 https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png
+
+Sony SAB
+https://www.lyngsat.com/logo/tv/ss/sony-sab-tv-in.png
 
 Sony Yay
 https://www.lyngsat.com/logo/tv/ss/sony-yay-in.png
